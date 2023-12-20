@@ -1,10 +1,10 @@
 #snake Game
-this is an snake game written in python ussing pygamee liberary 
+this is an snake game written in python using pygame liberary 
 
 # installation 
-downlode python latest version and install it
+*downlode python latest version and install it
 
-run the foollowing command and install the library 
+*run the foollowing command and install the library 
 pip3 install pygame
 
 #running game
